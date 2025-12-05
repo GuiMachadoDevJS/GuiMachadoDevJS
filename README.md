@@ -14,7 +14,6 @@ Full Stack AI-Native developer 👨‍💻
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="center" alt="Gui-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"> -->
   <img align="center" alt="Gui-PHP" height="70" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://scontent.cdninstagram.com/v/t51.39111-15/324709087_704005447895593_6429665142914266587_n.jpg?stp=dst-jpg_s240x240&_nc_cat=106&ccb=1-7&_nc_sid=5a057b&_nc_ohc=88-vzKvI3GwAX_2SINh&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=02_AVC9XCOonDFHFsAQN0lcO-m0aYsOjqzRmLs7DUtY_IBskA&oe=63C59128">
 </div>
   
   ##
