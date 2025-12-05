@@ -1,5 +1,5 @@
 ### Hello! I'm Guilherme Pelegrino. 👋   
-Full Stack AI-Native developer 👨‍💻
+Full-Stack Developer 👨‍💻
 
 
 <div align="center">
